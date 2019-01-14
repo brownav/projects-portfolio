@@ -1,15 +1,22 @@
 [
   {
     "title": "Pick-a-Flick",
-    "summary": "Netflix score aggregator",
-    "picture": "pickaflick.jpg",
+    "summary": "A responsive Netflix score aggregator web app with a tiebreaker feature. The tiebreaker feature randomly selects a title from up to five titles picked out by the user. Aggregated scores are comprised of available IMDB, Metacritic, and Rotten Tomato scores. Movies and shows are dislayed by genre in order of highest to lowest aggregated score. Two APIs were combined create a complete movie model.",
+    "picture": "./pickaflick.png",
     "link": "http://pickaflick.herokuapp.com/",
     "tags": "React, Node, MongoDB"
   },
   {
     "title": "Sweetsy",
     "summary": "Ecommerce web app",
-    "picture": "sweetsy.jpg",
+    "picture": "./sweetsy.png",
+    "link": "link.com",
+    "tags": "Ruby, Rails, OAuth"
+  }, 
+  {
+    "title": "Media Ranker",
+    "summary": "Media ranking web app",
+    "picture": "./mediaranker.png",
     "link": "link.com",
     "tags": "Ruby, Rails, OAuth"
   }

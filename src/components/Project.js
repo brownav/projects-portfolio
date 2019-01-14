@@ -16,13 +16,13 @@ class Project extends Component {
 
   render() {
       return (
-        <div className="App">
-          <p>{this.props.title}</p>
+        <article className="App">
+          <h2>{this.props.title}</h2>
           <p>{this.props.summary}</p>
-          <p>{this.props.picture}</p>
+          <img width="500em" height="300em" src={this.props.picture} alt="project screenshot"/><br></br>
           <a href={this.props.link}>{this.props.link}</a>
           <p>{this.props.tags}</p>
-        </div>
+        </article>
       );
   }
 

@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import Project from './Project.js';
 import data from '../data/projects.txt';
 
+const images = require.context('../../public/images', true);
+
 class ProjectCollection extends Component {
 	constructor(props) {
 		super(props)
@@ -20,15 +22,16 @@ class ProjectCollection extends Component {
 			.catch( err => console.log(err))
 	}
    	
-	makeMovies = () => {
+	renderProjects = () => {
 		let projects = this.state.projects.map((elem, index) => {
 			let tags = elem.tags.split(",");
+			let screenshot = (images(elem.picture));
 			return (
 				<Project
 					key={index}
 					title={elem.title}
 					summary={elem.summary}
-					picture={elem.picture}
+					picture={screenshot}
 					link={elem.link}
 					tags={tags}
 				/>
@@ -41,7 +44,7 @@ class ProjectCollection extends Component {
 	render() {
 		return (
 				<div>
-					{this.makeMovies()}
+					{this.renderProjects()}
 				</div>
 			);
 	}
