@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Pick-a-Flick",
+    "summary": "Netflix score aggregator",
+    "picture": "pickaflick.jpg",
+    "link": "http://pickaflick.herokuapp.com/",
+    "tags": "React, Node, MongoDB"
+  },
+  {
+    "title": "Sweetsy",
+    "summary": "Ecommerce web app",
+    "picture": "sweetsy.jpg",
+    "link": "link.com",
+    "tags": "Ruby, Rails, OAuth"
+  }
+]
