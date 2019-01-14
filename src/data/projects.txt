@@ -1,23 +1,79 @@
 [
   {
-    "title": "Pick-a-Flick",
+    "title": "Pick-A-Flick",
     "summary": "A responsive Netflix score aggregator web app with a tiebreaker feature. The tiebreaker feature randomly selects a title from up to five titles picked out by the user. Aggregated scores are comprised of available IMDB, Metacritic, and Rotten Tomato scores. Movies and shows are dislayed by genre in order of highest to lowest aggregated score. Two APIs were combined create a complete movie model.",
     "picture": "./pickaflick.png",
     "link": "http://pickaflick.herokuapp.com/",
-    "tags": "React, Node, MongoDB"
+    "tags": "API, MongoDB, Node, React"
   },
+  {
+    "title": "Recipedia",
+    "summary": "Recipe search app",
+    "picture": "./recipedia.png",
+    "link": "https://api-recipedia.herokuapp.com/",
+    "tags": "API, Rails, Ruby"
+  }, 
   {
     "title": "Sweetsy",
     "summary": "Ecommerce web app",
     "picture": "./sweetsy.png",
-    "link": "link.com",
-    "tags": "Ruby, Rails, OAuth"
+    "link": "https://ala-yummly.herokuapp.com/",
+    "tags": "OAuth, Rails, Ruby"
   }, 
   {
     "title": "Media Ranker",
     "summary": "Media ranking web app",
     "picture": "./mediaranker.png",
-    "link": "link.com",
-    "tags": "Ruby, Rails, OAuth"
+    "link": "https://ab-mediaranker.herokuapp.com/",
+    "tags": "OAuth, Rails, Ruby"
+  },
+  {
+    "title": "Trek",
+    "summary": "TREK is an application that displays information on travel packages and allows users to reserve spots on a specific trip.",
+    "picture": "./trek.png",
+    "link": "https://github.com/brownav/trek",
+    "tags": "API, JavaScript, JQuery"
+  },
+  {
+    "title": "Video Store",
+    "summary": "Video store web app that a rental store employee would use to manage rentals. Includes movie search functionality, a library of existing rentals, and user details.",
+    "picture": "./videostore.png",
+    "link": "https://choricao.github.io/video-store-consumer/",
+    "tags": "API, Rails, React"
+  },
+  {
+    "title": "Litter patrol",
+    "summary": "Interactive game to get as many points as possible.",
+    "picture": "./litterpatrol.png",
+    "link": "https://github.com/brownav/litter-patrol",
+    "tags": "React"
+  },
+  {
+    "title": "Chat log",
+    "summary": "Basic React project for displaying a chat log from static data.",
+    "picture": "./robot-chat.png",
+    "link": "https://github.com/brownav/react-chatlog",
+    "tags": "React"
+  },
+  {
+    "title": "Hangman",
+    "summary": "CLI hangman game using ASCII art.",
+    "picture": "./hangman.png",
+    "link": "https://github.com/brownav/Word-Guess",
+    "tags": "CLI, OOP, Ruby"
+  }, 
+  {
+    "title": "Scrabble - Ruby",
+    "summary": "Ruby implementation of Scrabble game.",
+    "picture": "./scrabble.png",
+    "link": "https://github.com/brownav/Scrabble",
+    "tags": "OOP, Ruby"
+  },
+  {
+    "title": "Scrabble - JavaScript",
+    "summary": "JavaScript implementation of Scrabble game.",
+    "picture": "./js-scrabble.png",
+    "link": "https://github.com/brownav/js-scrabble",
+    "tags": "JavaScript, OOP"
   }
 ]
