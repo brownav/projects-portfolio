@@ -42,7 +42,6 @@ class ProjectCollection extends Component {
 	}
 
 	render() {
-
 		return (
 				<div className="container">
 					{this.renderProjects()}

@@ -1,8 +1,8 @@
 {
-  "name": "projects-portfolio",
+  "name": "alex-projects",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/brownav/projects-portfolio",
+  "homepage": "https://brownav.github.io/projects-portfolio",
   "dependencies": {
     "@vtex/react-csv-parse": "^3.0.2",
     "gh-pages": "^2.0.1",
@@ -12,7 +12,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
