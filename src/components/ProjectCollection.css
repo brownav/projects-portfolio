@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 2em 5em 2em 5em;
+  justify-content: space-evenly;
+
+}

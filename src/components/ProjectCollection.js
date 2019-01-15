@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Project from './Project.js';
 import data from '../data/projects.txt';
+import './ProjectCollection.css';
 
 const images = require.context('../../public/images', true);
 
@@ -40,10 +41,10 @@ class ProjectCollection extends Component {
 		return projects;
 	}
 
-
 	render() {
+
 		return (
-				<div>
+				<div className="container">
 					{this.renderProjects()}
 				</div>
 			);

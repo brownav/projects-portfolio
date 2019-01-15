@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import './Project.css';
 
 class Project extends Component {
   constructor(props) {
@@ -15,15 +16,15 @@ class Project extends Component {
   } 
 
   render() {
-      return (
-        <article className="App">
-          <h2>{this.props.title}</h2>
-          <p>{this.props.summary}</p>
-          <img width="500em" height="300em" src={this.props.picture} alt="project screenshot"/><br></br>
-          <a href={this.props.link}>{this.props.link}</a>
-          <p>{this.props.tags}</p>
-        </article>
-      );
+    return (
+      <article className="article">
+        <h2>{this.props.title}</h2>
+        <img width="500em" height="300em" src={this.props.picture} alt="project screenshot"/><br></br>
+        <a href={this.props.link}>{this.props.link}</a>
+        <p>{this.props.summary}</p>
+        <p>{this.props.tags}</p>
+      </article>
+    );
   }
 
 }

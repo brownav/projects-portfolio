@@ -1,7 +1,7 @@
 [
   {
     "title": "Pick-A-Flick",
-    "summary": "A responsive Netflix score aggregator web app with a tiebreaker feature. The tiebreaker feature randomly selects a title from up to five titles picked out by the user. Aggregated scores are comprised of available IMDB, Metacritic, and Rotten Tomato scores. Movies and shows are dislayed by genre in order of highest to lowest aggregated score. Two APIs were combined create a complete movie model.",
+    "summary": "Netflix score aggregator web app with a tiebreaker feature. The tiebreaker feature randomly selects a title from up to five titles picked out by the user.",
     "picture": "./pickaflick.png",
     "link": "http://pickaflick.herokuapp.com/",
     "tags": "API, MongoDB, Node, React"
