@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/projects-portfolio/static/media/mediaranker.f81bd0ff.png"
   },
   {
-    "revision": "fc2d50f1ceb3958c5b06",
-    "url": "/projects-portfolio/static/css/main.7f384350.chunk.css"
+    "revision": "3153f930284f2ea43fc1",
+    "url": "/projects-portfolio/static/css/main.eae071f9.chunk.css"
   },
   {
     "revision": "f03e8ae863144a61c620",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/projects-portfolio/static/media/litterpatrol.284a3868.png"
   },
   {
-    "revision": "fc2d50f1ceb3958c5b06",
-    "url": "/projects-portfolio/static/js/main.fc2d50f1.chunk.js"
+    "revision": "3153f930284f2ea43fc1",
+    "url": "/projects-portfolio/static/js/main.3153f930.chunk.js"
   },
   {
     "revision": "716b15f826a2beb692329cbdbd9336b1",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/projects-portfolio/static/media/videostore.8d64d9ea.png"
   },
   {
-    "revision": "ff566379099009be984b81be4810da5b",
+    "revision": "fbb284dad55a6916e35695f069deb227",
     "url": "/projects-portfolio/index.html"
   }
 ];
