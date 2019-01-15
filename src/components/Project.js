@@ -12,7 +12,7 @@ class Project extends Component {
     summary: PropTypes.string,
     picture: PropTypes.string,
     link: PropTypes.string,
-    tags: PropTypes.array
+    tags: PropTypes.string
   } 
 
   render() {

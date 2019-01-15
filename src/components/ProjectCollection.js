@@ -25,7 +25,6 @@ class ProjectCollection extends Component {
    	
 	renderProjects = () => {
 		let projects = this.state.projects.map((elem, index) => {
-			let tags = elem.tags.split(",");
 			let screenshot = (images(elem.picture));
 			return (
 				<Project
@@ -34,7 +33,7 @@ class ProjectCollection extends Component {
 					summary={elem.summary}
 					picture={screenshot}
 					link={elem.link}
-					tags={tags}
+					tags={elem.tags}
 				/>
 			)
 		});
