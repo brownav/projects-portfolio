@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ProjectCollection from './components/ProjectCollection.js';
+import Sidebar from './components/Sidebar.js';
 import './App.css';
 
 class App extends Component {
@@ -10,8 +11,7 @@ class App extends Component {
   render() {
     return (
       <main className="App">
-        <h1>Alexandria Brown</h1>
-        <sub>Hello! This is an in-progress snapshot of my projects. Some have been deployed, the rest link to GitHub repos. Feel free to browse more projects on my <a href="https://github.com/brownav" target="_blank" rel="noopener noreferrer">Github</a>.</sub>
+        <Sidebar></Sidebar>
         <ProjectCollection width="300em"></ProjectCollection>
       </main>
     );

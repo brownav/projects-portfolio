@@ -19,7 +19,7 @@ class Project extends Component {
     return (
       <article className="article">
         <h2>{this.props.title}</h2>
-        <img width="455em" height="300em" src={this.props.picture} alt="project screenshot"/><br></br>
+        <img width="350em" height="300em" src={this.props.picture} alt="project screenshot"/><br></br>
         <a href={this.props.link}>{this.props.link}</a>
         <p>{this.props.summary}</p>
         <p>{this.props.tags}</p>

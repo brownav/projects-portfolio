@@ -1,0 +1,11 @@
+section {
+  float: left;
+  background-color: white;
+  width: 16em;
+  height: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  position: fixed;
+}

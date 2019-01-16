@@ -1,7 +1,9 @@
 .App {
   text-align: center;
+  margin-left: 16em;
 }
 
 body {
   background-color: hsl(43, 74%, 49%, .7);
+  height: 100%;
 }
