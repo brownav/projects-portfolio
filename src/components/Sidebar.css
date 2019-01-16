@@ -14,7 +14,7 @@ section {
 }
 
 img.profile {
-  border: .25em solid lightseagreen;
+  border: .25em solid rgb(197, 212, 64);
   border-radius: 50%;
   width: 120px;
 }
