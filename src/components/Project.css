@@ -1,5 +1,9 @@
 .article {
-  border-color: black;
   margin: 1em 1em 1em 1em;
-  width: 30em;
-};
+  width: 25em;
+  background-color: rgba(255, 255, 255, .6);
+}
+
+img {
+  border: solid thin black;
+}

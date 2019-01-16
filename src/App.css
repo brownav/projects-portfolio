@@ -1,9 +1,24 @@
 .App {
   text-align: center;
-  margin-left: 16em;
+  margin-left: 18em;
+  font-family: 'Lora', serif;
 }
 
 body {
-  background-color: hsl(43, 74%, 49%, .7);
   height: 100%;
+  background-image: url(white-waves.png)
+}
+
+p {
+  font-size: small;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 50px;
+  margin-top: .5em;
+}
+
+a {
+  font-size: small;
 }

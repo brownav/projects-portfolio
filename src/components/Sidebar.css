@@ -1,6 +1,6 @@
 section {
   float: left;
-  background-color: white;
+  color: white;
   width: 16em;
   height: 100%;
   z-index: 1;
@@ -8,4 +8,13 @@ section {
   left: 0;
   overflow-x: hidden;
   position: fixed;
+  padding: 1em 1em 1em 1em;
+  border-right: solid black 4px;
+  background-color: rgb(29, 47, 65);
+}
+
+img.profile {
+  border: .25em solid lightseagreen;
+  border-radius: 50%;
+  width: 120px;
 }
