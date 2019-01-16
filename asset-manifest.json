@@ -1,7 +1,7 @@
 {
-  "main.css": "/projects-portfolio/static/css/main.e13b859a.chunk.css",
-  "main.js": "/projects-portfolio/static/js/main.d265bf94.chunk.js",
-  "main.js.map": "/projects-portfolio/static/js/main.d265bf94.chunk.js.map",
+  "main.css": "/projects-portfolio/static/css/main.4b9ea0f5.chunk.css",
+  "main.js": "/projects-portfolio/static/js/main.49399195.chunk.js",
+  "main.js.map": "/projects-portfolio/static/js/main.49399195.chunk.js.map",
   "static/js/1.f862742e.chunk.js": "/projects-portfolio/static/js/1.f862742e.chunk.js",
   "static/js/1.f862742e.chunk.js.map": "/projects-portfolio/static/js/1.f862742e.chunk.js.map",
   "runtime~main.js": "/projects-portfolio/static/js/runtime~main.bc2e062b.js",
@@ -20,8 +20,8 @@
   "static/media/trek.png": "/projects-portfolio/static/media/trek.b8d14e39.png",
   "static/media/hangman.png": "/projects-portfolio/static/media/hangman.f7c8f3d0.png",
   "static/media/App.css": "/projects-portfolio/static/media/white-waves.a06a3248.png",
-  "static/css/main.e13b859a.chunk.css.map": "/projects-portfolio/static/css/main.e13b859a.chunk.css.map",
+  "static/css/main.4b9ea0f5.chunk.css.map": "/projects-portfolio/static/css/main.4b9ea0f5.chunk.css.map",
   "index.html": "/projects-portfolio/index.html",
-  "precache-manifest.3ea61afe396295e222fd01c41ef36361.js": "/projects-portfolio/precache-manifest.3ea61afe396295e222fd01c41ef36361.js",
+  "precache-manifest.978066a883f7d0c63756675aa8f291f3.js": "/projects-portfolio/precache-manifest.978066a883f7d0c63756675aa8f291f3.js",
   "service-worker.js": "/projects-portfolio/service-worker.js"
 }
