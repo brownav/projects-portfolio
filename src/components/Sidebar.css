@@ -18,3 +18,11 @@ img.profile {
   border-radius: 50%;
   width: 120px;
 }
+
+.icons {
+  margin-top: 3em;
+}
+
+a {
+  margin: 0em .5em 0em .5em;
+}
