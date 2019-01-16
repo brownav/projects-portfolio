@@ -1,13 +1,13 @@
 {
   "main.css": "/projects-portfolio/static/css/main.35722bf8.chunk.css",
-  "main.js": "/projects-portfolio/static/js/main.cb4142d7.chunk.js",
-  "main.js.map": "/projects-portfolio/static/js/main.cb4142d7.chunk.js.map",
+  "main.js": "/projects-portfolio/static/js/main.f536bf18.chunk.js",
+  "main.js.map": "/projects-portfolio/static/js/main.f536bf18.chunk.js.map",
   "static/js/1.f862742e.chunk.js": "/projects-portfolio/static/js/1.f862742e.chunk.js",
   "static/js/1.f862742e.chunk.js.map": "/projects-portfolio/static/js/1.f862742e.chunk.js.map",
   "runtime~main.js": "/projects-portfolio/static/js/runtime~main.bc2e062b.js",
   "runtime~main.js.map": "/projects-portfolio/static/js/runtime~main.bc2e062b.js.map",
   "static/media/videostore.png": "/projects-portfolio/static/media/videostore.8d64d9ea.png",
-  "static/media/projects.txt": "/projects-portfolio/static/media/projects.d48890fc.txt",
+  "static/media/projects.txt": "/projects-portfolio/static/media/projects.07d20604.txt",
   "static/media/js-scrabble.png": "/projects-portfolio/static/media/js-scrabble.15c83b84.png",
   "static/media/litterpatrol.png": "/projects-portfolio/static/media/litterpatrol.284a3868.png",
   "static/media/mediaranker.png": "/projects-portfolio/static/media/mediaranker.f81bd0ff.png",
@@ -22,6 +22,6 @@
   "static/media/App.css": "/projects-portfolio/static/media/white-waves.a06a3248.png",
   "static/css/main.35722bf8.chunk.css.map": "/projects-portfolio/static/css/main.35722bf8.chunk.css.map",
   "index.html": "/projects-portfolio/index.html",
-  "precache-manifest.edd81cd0fbc45e3c00132ca5bdc24f52.js": "/projects-portfolio/precache-manifest.edd81cd0fbc45e3c00132ca5bdc24f52.js",
+  "precache-manifest.68561d31bb2905b8b2e230bf17393433.js": "/projects-portfolio/precache-manifest.68561d31bb2905b8b2e230bf17393433.js",
   "service-worker.js": "/projects-portfolio/service-worker.js"
 }
