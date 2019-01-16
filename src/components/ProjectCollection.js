@@ -17,9 +17,7 @@ class ProjectCollection extends Component {
 	componentDidMount = () => {
 			fetch(data)
 			.then( resp => resp.text())
-			.then( resp =>
-				this.setState({projects: JSON.parse(resp)}) 
-				)
+			.then( resp => this.setState({projects: JSON.parse(resp)}))
 			.catch( err => console.log(err))
 	}
    	
