@@ -4,6 +4,7 @@
     "summary": "Netflix score aggregator web app with a tiebreaker feature. The tiebreaker feature randomly selects a title from up to five titles selected by the user.",
     "picture": "./pickaflick.png",
     "link": "http://pickaflick.herokuapp.com/",
+    "status": "Deloyed",
     "tags": "API, MongoDB, Node, React"
   },
   {
@@ -11,6 +12,7 @@
     "summary": "Recipe search app",
     "picture": "./recipedia.png",
     "link": "https://api-recipedia.herokuapp.com/",
+    "status": "Deployed",
     "tags": "API, Rails, Ruby"
   }, 
   {
@@ -18,6 +20,7 @@
     "summary": "Ecommerce web app",
     "picture": "./sweetsy.png",
     "link": "https://ala-yummly.herokuapp.com/",
+    "status": "Deployed",
     "tags": "OAuth, Rails, Ruby"
   }, 
   {
@@ -25,6 +28,7 @@
     "summary": "Media ranking web app",
     "picture": "./mediaranker.png",
     "link": "https://ab-mediaranker.herokuapp.com/",
+    "status": "Deployed",
     "tags": "OAuth, Rails, Ruby"
   },
   {
@@ -32,6 +36,7 @@
     "summary": "TREK is an application that displays information on travel packages and allows users to reserve spots on a specific trip.",
     "picture": "./trek.png",
     "link": "https://github.com/brownav/trek",
+    "status": "GitHub Repo",
     "tags": "API, JavaScript, JQuery"
   },
   {
@@ -39,6 +44,7 @@
     "summary": "Video store web app that a rental store employee would use to manage rentals. Includes movie search functionality, a library of existing rentals, and user details.",
     "picture": "./videostore.png",
     "link": "https://choricao.github.io/video-store-consumer/",
+    "status": "Deloyed",
     "tags": "API, Rails, React"
   },
   {
@@ -46,6 +52,7 @@
     "summary": "Interactive game to get as many points as possible.",
     "picture": "./litterpatrol.png",
     "link": "https://github.com/brownav/litter-patrol",
+    "status": "GitHub repo",
     "tags": "React"
   },
   {
@@ -53,6 +60,7 @@
     "summary": "Basic React project for displaying a chat log from static data.",
     "picture": "./robot-chat.png",
     "link": "https://github.com/brownav/react-chatlog",
+    "status": "GitHub repo",
     "tags": "React"
   },
   {
@@ -60,6 +68,7 @@
     "summary": "CLI hangman game using ASCII art.",
     "picture": "./hangman.png",
     "link": "https://github.com/brownav/Word-Guess",
+    "status": "GitHub repo",
     "tags": "CLI, OOP, Ruby"
   }, 
   {
@@ -67,6 +76,7 @@
     "summary": "Ruby implementation of Scrabble game.",
     "picture": "./scrabble.png",
     "link": "https://github.com/brownav/Scrabble",
+    "status": "GitHub repo",
     "tags": "OOP, Ruby"
   },
   {
@@ -74,6 +84,7 @@
     "summary": "JavaScript implementation of Scrabble game.",
     "picture": "./js-scrabble.png",
     "link": "https://github.com/brownav/js-scrabble",
+    "status": "GitHub repo",
     "tags": "JavaScript, OOP"
   }
 ]

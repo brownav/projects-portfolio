@@ -31,6 +31,7 @@ class ProjectCollection extends Component {
             summary={elem.summary}
             picture={screenshot}
             link={elem.link}
+            status={elem.status}
             tags={elem.tags}
           />
         )
