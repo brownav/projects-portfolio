@@ -15,12 +15,12 @@ class ProjectCollection extends Component {
 	}
 	
 	componentDidMount = () => {
-			fetch(data)
-			.then( resp => resp.text())
-			.then( resp => this.setState({projects: JSON.parse(resp)}))
-			.catch( err => console.log(err))
+		fetch(data)
+		.then( resp => resp.text())
+		.then( resp => this.setState({projects: JSON.parse(resp)}))
+		.catch( err => console.log(err))
 	}
-   	
+		 
 	renderProjects = () => {
 		let projects = this.state.projects.map((elem, index) => {
 			let screenshot = (images(elem.picture));
@@ -40,10 +40,10 @@ class ProjectCollection extends Component {
 
 	render() {
 		return (
-				<div className="container">
-					{this.renderProjects()}
-				</div>
-			);
+			<div className="container">
+				{this.renderProjects()}
+			</div>
+		);
 	}
 }
 
