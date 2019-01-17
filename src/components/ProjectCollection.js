@@ -6,7 +6,7 @@ import './ProjectCollection.css';
 const images = require.context('../../public/images', true);
 
 class ProjectCollection extends Component {
-	constructor(props) {
+  constructor(props) {
 		super(props)
 
 		this.state = {
@@ -48,3 +48,5 @@ class ProjectCollection extends Component {
 }
 
 export default ProjectCollection;
+
+
