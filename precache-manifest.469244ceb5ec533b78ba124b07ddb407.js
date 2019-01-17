@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/projects-portfolio/static/media/white-waves.a06a3248.png"
   },
   {
-    "revision": "c3f11feecd92008bb76d079248a13dd2",
+    "revision": "8036eb963c0b7603ec3320655c3a68d5",
     "url": "/projects-portfolio/index.html"
   }
 ];
