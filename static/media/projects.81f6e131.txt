@@ -4,7 +4,7 @@
     "summary": "Netflix score aggregator web app with a tiebreaker feature. The tiebreaker feature randomly selects a title from up to five titles selected by the user.",
     "picture": "./pickaflick.png",
     "link": "http://pickaflick.herokuapp.com/",
-    "status": "Deloyed",
+    "status": "Deployed",
     "tags": "API, MongoDB, Node, React"
   },
   {
@@ -44,7 +44,7 @@
     "summary": "Video store web app that a rental store employee would use to manage rentals. Includes movie search functionality, a library of existing rentals, and user details.",
     "picture": "./videostore.png",
     "link": "https://choricao.github.io/video-store-consumer/",
-    "status": "Deloyed",
+    "status": "Deployed",
     "tags": "API, Rails, React"
   },
   {
