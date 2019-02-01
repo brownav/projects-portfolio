@@ -1,12 +1,10 @@
 This is a small React app to visually display some of my previous projects. It is currently in progress. 
 
 ## Minor Fixes
-* Project links should open in new tab
 * Add more detail to project descriptions
 * Add more projects!
 
 ## Expansion 
-* Testing
 * Add search bar functionality, or filtering of projects based on tags (Ruby, JavaScript, Node, etc.)
 * Swap screenshots for gifs/video of the project being used
 ______________________________________________________________
